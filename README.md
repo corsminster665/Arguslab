@@ -205,4 +205,4 @@ ArgusLab is provided as a complete free version with all features and updates in
 Unlock the potential of molecular design by downloading ArgusLab today! Experience the power of a complete, free software tailored for scientists and researchers.
 
 ---
-**Last updated:** 2026-09-19 22:03:21 UTC
+**Last updated:** 2026-09-20 00:33:55 UTC
